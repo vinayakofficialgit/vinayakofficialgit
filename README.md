@@ -19,16 +19,25 @@ DevOps
 Throughout my career, I have had the privilege of working on diverse projects, each contributing to my depth of knowledge and skills. Here’s a glimpse of my industry expertise:
 
 Cloud Platforms: AWS, Azure
+
 Containerization: Docker, Kubernetes,Docker Swarm
+
 CI/CD Pipelines: Jenkins, GitLab CI, GitHub Actions, & GOCD, CircleCi
+
 Infrastructure as Code: Terraform, CloudFormation & CDK
+
 Monitoring & Logging: Prometheus, Grafana, ELK Stack, Nagios & CloudWatch
+
 🌟 Core Skills:
 
 🛠️ Automation: Expertise in scripting and automating infrastructure and deployment processes using tools like Terraform, Ansible, and Jenkins.
+
 🐳 Containerization: Proficient in Docker, Kubernetes, and container orchestration for scalable applications.
+
 ☁️ Cloud Computing: Deep experience with cloud infrastructure, managing resources, and cost optimization on AWS, Azure, and Google Cloud.
+
 🔄 CI/CD: Building and managing CI/CD pipelines using Jenkins, GitLab CI, and GitHub Actions.
+
 📈 Monitoring & Logging: Implementing robust monitoring solutions with Prometheus, Grafana, ELK Stack, and CloudWatch.
 🔧 DevOps Tools & Technologies
          
