@@ -98,5 +98,5 @@ Monitoring & Logging: Prometheus, Grafana, ELK Stack, Nagios & CloudWatch
 ### 📫 How to reach me?
 
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/vinayak-sharma%E2%98%81%EF%B8%8F-a9ab74284/) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/vinayak-sharma-DevOps/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:vinayak_sharma_30@outlook.com) 💌
