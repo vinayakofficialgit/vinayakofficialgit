@@ -5,7 +5,7 @@
 **Hi 👋, vinayak sharma ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [vinayak](https://www.linkedin.com/in/vinayak-sharma%E2%98%81%EF%B8%8F-a9ab74284/),I am a Cloud and DevOps Engineer ☁️ [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
+I am [vinayak](https://www.linkedin.com/in/vinayak-sharma-DevOps/),I am a Cloud and DevOps Engineer ☁️ [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
 
 DevOps
 
